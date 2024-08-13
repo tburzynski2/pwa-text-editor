@@ -70,7 +70,7 @@ This application is deployed on [Render](https://pwa-text-editor-4qqm.onrender.c
 
 ## Screenshot
 
-![Text Editor PWA screenshot]()
+![Text Editor PWA screenshot](https://github.com/tburzynski2/pwa-text-editor/blob/main/Develop/client/src/images/JATE-Screenshot.jpg?raw=true)
 
 ## License
 
