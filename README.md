@@ -74,4 +74,4 @@ This application is deployed on [Render](https://pwa-text-editor-4qqm.onrender.c
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License.
